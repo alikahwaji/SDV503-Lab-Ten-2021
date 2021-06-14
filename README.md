@@ -50,9 +50,9 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 ## :page_facing_up: Lab Ten Description
 
-:arrow_right: What is a Dynmic DataType in C#? Provide an example with your answer. (Use your journal MD file)
+:arrow_right: What is a Dynmic DataType in C#? Provide examples with your answer. (Use your journal MD file)
 
-:arrow_right: Explain static keyword in C# and give examples of using keywork with methods and classes. (Use your journal MD file)
+:arrow_right: Explain static keyword in C# and give examples of using static keyword with methods and classes. (Use your journal MD file)
 
 
 ## :books: Resources 
